@@ -1,0 +1,4 @@
+- [x] Update baseURL in ecommerce-frontend/src/api.jsx to "http://localhost:8000/api"
+- [x] Remove 'confirmed' from password validation in ecommerce-backend/app/Http/Controllers/AuthController.php
+- [x] Improve error handling in ecommerce-frontend/src/page/Register.jsx to check if err.response exists
+- [ ] Test the registration after starting backend and frontend servers
